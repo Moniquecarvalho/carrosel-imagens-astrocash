@@ -4,18 +4,18 @@
 
   <p align="center">
 Este projeto consiste em um carrossel de imagens interativo criado com HTML e CSS. Os logotipos são exibidos em um carrossel que pausa a animação quando o mouse passa sobre ele. Ao clicar em um logotipo, a imagem correspondente é exibida na notícia, proporcionando uma experiência interativa aos usuários.    <br />
-    <a href="https://github.com/Moniquecarvalho/poll-gmr-freela/tree/main"><strong>Visualizar o projeto »</strong></a>
+    <a href="https://github.com/Moniquecarvalho/carrosel-imagens-astrocash"><strong>Visualizar o projeto »</strong></a>
     <br />
     <br />
   </p>
   <p><b>Versão Web</p>
-  <img src="./src/img/poll-gmr.png" alt="Print da tela da Pool Gmr versão web">
+  <img src="./src/img/carrosel-img.gif" alt="Print da tela da Pool Gmr versão web">
    <br />
    <br />
    <br />
    <br />
    <p><b>Versão Mobile</p>
-  <img src="./src/img/pool-mobile.png" alt="Print da tela da Pool Gmr versão mobile" width="400" height="500" >
+  <img src="./src/img/carrosel-mobile.gif" alt="Print da tela da Pool Gmr versão mobile" width="400" height="500" >
 </div>
 <br />
 <br />
@@ -28,7 +28,7 @@ Você pode visualizar a página abrindo o arquivo `index.html` em um navegador d
 ## 📂 Estrutura do Projeto
 
 - `index.html`: O arquivo principal que contém o conteúdo da página.
-- `src/style/`: A pasta que contém os arquivos CSS para estilizar a página, resetar e a versão Mobile
+- `src/index/`: A pasta que contém os arquivos CSS para estilizar a página, resetar e a versão Mobile
 - `src/images/`: A pasta que contém imagens usadas na página.
 <br />
 
