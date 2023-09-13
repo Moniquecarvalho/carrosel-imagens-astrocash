@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap");
+
+body {
+    font-family: "Ubuntu", sans-serif;
+}
+
+#how-to-title {
+    color: #540e86;
+    font-size: 34px;
+    line-height: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#carousel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+    overflow: hidden;
+
+    padding: 30px 0;
+
+    text-align: center;
+
+    background-color: #ffffff;
+}
+
+#carousel h2 {
+    align-self: center;
+}
+
+@keyframes slider {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+.carousel-slider {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+
+    padding-top: 20px;
+
+    white-space: nowrap;
+
+    animation: 20s slider infinite linear;
+}
+
+.carousel-slider:hover {
+    animation-play-state: paused;
+}
+
+.carousel-slide-item img {
+    width: 200px;
+    margin: 0px 20px;
+}
