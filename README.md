@@ -40,7 +40,7 @@ Você pode visualizar a página abrindo o arquivo `index.html` em um navegador d
 
 ## 👩🏽‍💻 Autora
 
-Este projeto foi criado com base no curso do DevQuest.
+Este projeto foi feito para um cliente Freelancer, onde o chefe da equipe me passou o que deveria ser feito.
 <br />
 <br />
 
