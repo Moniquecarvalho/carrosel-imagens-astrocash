@@ -4,7 +4,7 @@
 
   <p align="center">
 Este projeto consiste em um carrossel de imagens interativo criado com HTML e CSS. Os logotipos são exibidos em um carrossel que pausa a animação quando o mouse passa sobre ele. Ao clicar em um logotipo, a imagem correspondente é exibida na notícia, proporcionando uma experiência interativa aos usuários.    <br />
-    <a href="https://github.com/Moniquecarvalho/carrosel-imagens-astrocash"><strong>Visualizar o projeto »</strong></a>
+    <a href="https://astroplay.app/"><strong>Visualizar o projeto »</strong></a>
     <br />
     <br />
   </p>
